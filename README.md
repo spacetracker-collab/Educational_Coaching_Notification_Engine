@@ -2,7 +2,7 @@
 
 
 [Educational Coaching Notification Engine](https://docs.google.com/spreadsheets/d/e/2PACX-1vS1WBinOIcX1xqhUC8dS6rrSHlE7ib4DNtEZWBgTS4tej7fsAZmi-MsNO0mOR4WhzZbZFS7b_dVUKAV/pubhtml)
-
+[Education Technology System Architecture](https://github.com/spacetracker-collab/Educational_Coaching_Notification_Engine/blob/main/EdTech%20System%20%20Architecture.jpg)
 **Reason**
 
 This is the genesis of a Notification Engine of Indias third biggest EdTech company in growth mode that has specialized in English coaching among many others. We categorize the notification into various buckets. This EdTech app is good for mentoring and mentors need to constantly push the busy workers to up their game and spend time on their platform so that they can achieve their potential.
