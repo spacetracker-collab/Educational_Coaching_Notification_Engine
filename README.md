@@ -9,4 +9,4 @@ This is the genesis of a Notification Engine of Indias third biggest EdTech comp
 
 **Was the App Built**
 
-The EdTech organization ditched the platform strategy to after individualized Education Opportunities like English Coaching or Civil Services. This app was supposed to be built on Ionic. I did not charge anything for this application strategy and plan.
+The EdTech organization ditched the platform strategy to go after individualized Education Opportunities like English Coaching or Civil Services. This app was supposed to be built on Ionic. I did not charge anything for this application strategy and plan.
