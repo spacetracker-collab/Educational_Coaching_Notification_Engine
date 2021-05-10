@@ -12,3 +12,11 @@ This is the genesis of a Notification Engine of Indias third biggest EdTech comp
 **Was the App Built**
 
 The EdTech organization ditched the platform strategy to go after individualized Education Opportunities like English Coaching or Civil Services. This app was supposed to be built on Ionic. I did not charge anything for this application strategy and plan.
+
+**Name of the App**
+
+The application is named after Francis Arogiaraj from the movie Master. He is an ex alcoholic who gets in the path of a revenge 
+and power hungry Bhavani because two boys at a juvenile detention center were
+murdered when he was drunk (he was Deputed there) and thus could not pick up the phone.
+He kills Bhavani and surrenders to the cops. He does not remember his past, except the fact that he has to
+save the children in juvenile detention.
